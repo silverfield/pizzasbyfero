@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: pizzas.aux
+The style file: is-alpha.bst
+Database file #1: bibl.bib
+Warning--to sort, need author or key in Therapy
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty publisher in reinhart03
+You've used 3 entries,
+            3036 wiz_defined-function locations,
+            646 strings with 5642 characters,
+and the built_in function-call counts, 907 in all, are:
+= -- 68
+> -- 17
+< -- 2
++ -- 5
+- -- 4
+* -- 41
+:= -- 121
+add.period$ -- 8
+call.type$ -- 3
+change.case$ -- 13
+chr.to.int$ -- 3
+cite$ -- 6
+duplicate$ -- 54
+empty$ -- 115
+format.name$ -- 8
+if$ -- 199
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 2
+newline$ -- 28
+num.names$ -- 6
+pop$ -- 46
+preamble$ -- 1
+purify$ -- 17
+quote$ -- 0
+skip$ -- 34
+stack$ -- 0
+substring$ -- 23
+swap$ -- 3
+text.length$ -- 2
+text.prefix$ -- 2
+top$ -- 0
+type$ -- 20
+warning$ -- 2
+while$ -- 4
+width$ -- 5
+write$ -- 44
+(There were 2 warnings)

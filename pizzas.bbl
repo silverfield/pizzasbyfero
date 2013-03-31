@@ -1,0 +1,29 @@
+\begin{thebibliography}{Rei03}
+\ifx \showCODEN  \undefined \def \showCODEN #1{CODEN #1}  \fi
+\ifx \showISBN   \undefined \def \showISBN  #1{ISBN #1}   \fi
+\ifx \showISSN   \undefined \def \showISSN  #1{ISSN #1}   \fi
+\ifx \showLCCN   \undefined \def \showLCCN  #1{LCCN #1}   \fi
+\ifx \showPRICE  \undefined \def \showPRICE #1{#1}        \fi
+\ifx \showURL    \undefined \def \showURL {URL }          \fi
+\ifx \path       \undefined \input path.sty               \fi
+\ifx \ifshowURL \undefined
+     \newif \ifshowURL
+     \showURLtrue
+\fi
+
+\bibitem[Rei]{reisinger}
+Billy Reisinger.
+\newblock The amateur guide to making pizza.
+\newblock \ifshowURL {\showURL
+  \path|http://billyreisinger.com/pizza_dough.html|}\fi.
+
+\bibitem[Rei03]{reinhart03}
+Peter Reinhart.
+\newblock {\em American Pie: My Search for the Perfect Pizza}.
+\newblock 2003.
+
+\bibitem[The]{Therapy}
+Pizza therapy.
+\newblock \ifshowURL {\showURL \path|http://pizzatherapy.com/|}\fi.
+
+\end{thebibliography}

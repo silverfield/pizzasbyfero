@@ -1,0 +1,16 @@
+@book{reinhart03,
+  author    = {Peter Reinhart},
+  title     = {American Pie: My Search for the Perfect Pizza},
+  year      = {2003},
+}
+
+@misc{reisinger,
+     title = "The Amateur Guide to Making Pizza",
+     url = "http://billyreisinger.com/pizza_dough.html",
+     author = "Billy Reisinger"
+}
+
+@misc{therapy,
+     title = "Pizza therapy",
+     url = "http://pizzatherapy.com/",
+}
